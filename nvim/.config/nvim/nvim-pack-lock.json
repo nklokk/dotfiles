@@ -4,13 +4,34 @@
       "rev": "655133c",
       "src": "https://github.com/akinsho/bufferline.nvim"
     },
+    "gruvbox": {
+      "rev": "697c002",
+      "src": "https://github.com/morhetz/gruvbox"
+    },
     "nvim-tree.lua": {
       "rev": "64e2192",
       "src": "https://github.com/nvim-tree/nvim-tree.lua"
     },
+    "nvim-treesitter": {
+      "rev": "4a9f5797",
+      "src": "https://github.com/nvim-treesitter/nvim-treesitter",
+      "version": "'main'"
+    },
     "nvim-web-devicons": {
       "rev": "b8221e4",
       "src": "https://github.com/nvim-tree/nvim-web-devicons"
+    },
+    "plenary.nvim": {
+      "rev": "b9fd522",
+      "src": "https://github.com/nvim-lua/plenary.nvim"
+    },
+    "render-markdown.nvim": {
+      "rev": "bfd67f1",
+      "src": "https://github.com/MeanderingProgrammer/render-markdown.nvim"
+    },
+    "telescope.nvim": {
+      "rev": "b4da76b",
+      "src": "https://github.com/nvim-telescope/telescope.nvim"
     }
   }
 }
