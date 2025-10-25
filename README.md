@@ -12,4 +12,4 @@ A set of configuration files.
 stow -t ~ TARGET
 ```
 
-> TARGET is the name of the folder you want to stow, for example nvim.
+> TARGET is the name of the folder you want to stow, for example nvim, tmux and etc.
