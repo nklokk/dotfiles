@@ -12,3 +12,5 @@ require("plugins.nvim-tree")
 require("plugins.nvim-treesitter")
 require("plugins.render-markdown")
 require("plugins.telescope")
+
+pcall(require, "local")
